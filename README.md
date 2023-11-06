@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Avni Garg: math enthusiast, programmer, and junior at <a href="https://tjhsst.fcps.edu" target="_blank">TJHSST</a>. \
+➕ I'm the statistican for the <a href="https://tjvmt.com" target="_blank">TJ Varsity Math Team</a>, one of the most successful high school math teams in the nation! \
+👩‍💻 I'm also part of the <a href="https://github.com/HackTJ" target="_blank">HackTJ</a> Organizing Team, the largest high school hackathon on the east coast.
+
+Here you can find some of my past projects including:
+ - 🌳 Carbon Blueprint: Carbon tracking app using EPA's carbon footprint calculator.
+ - 📵 PirateTime: Reward users for following their screen time limit. Collect coins and compete with friends!
+ - 🩸 DonoBlood: Blockchain based architecture to encourage blood donations.
+ - 🦟 ArboTrack: Combat mosquito borne diseases with a crowd-sourced app. Deep learning image classification model to detect standing water from false reports.
+
 <!--
 **avnigarg02/avnigarg02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
