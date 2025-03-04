@@ -6,8 +6,9 @@ I'm Avni Garg: math enthusiast, programmer, and senior at Thomas Jefferson High 
 👩‍💻 I'm part of the <a href="https://github.com/HackTJ" target="_blank">HackTJ</a> organizing team, the largest high school hackathon on the east-coast, where I primarly work on the judging systems. 
 
 Here you can find some of my current and past projects including:
- - 💹 MRIO Analysis (mrio-analysis): Assess environmental impact of the global economy using a quantum Bayesian-adapted model. In progress as part of the Quantum and Optics Lab at TJHSST.
- - 💪 NeuroFlex (neuroflex): Aid in ALS diagnosis creating cost-effective surface EMG. Connects to app via the BLE protocol. This project was a 2024 Conrad Challenge Innovation Summit Finalist.
+ - 💹 MRIO QAOA (mrio-qaoa): Assess environmental impact of the global economy using the quantum approximate optimization algorithm. In progress as part of the Quantum and Optics Lab at TJHSST.
+ - ⛑️ Rapid Relief Routing (bp25): An optimal routing system for first-responders to aid with evacuations during emergencies. This project won Blueprint 2025 (MIT's high school hackathon).
+ - 💪 NeuroFlex (neuroflex): Aid in ALS diagnosis by creating cost-effective surface EMG. Connects to app via the BLE protocol. This project was a 2024 Conrad Challenge Innovation Summit Finalist.
  - 🔎 UAV Search and Rescue (uav-sar): Utilize survival behavioral models to optimize path plotting for search and rescue UAVs. This project received Honorable Mention and was an alternate for regionals at the TJHSST Science Fair.
  - 💻 TNN (tnn): A novel variant of the KNN algorithm.
  - 🌳 Carbon Blueprint (carbon-blueprint): Carbon tracking app using EPA's carbon footprint calculator.
